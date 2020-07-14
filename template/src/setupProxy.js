@@ -6,7 +6,7 @@ const proxy = require('http-proxy-middleware')
 module.exports = function(app) {
   app.use(
     proxy('/api', {
-      target: 'http://cloudpharmacy.qa.medlinker.com',
+      target: 'xxxxxxxxxxx',
       changeOrigin: true,
       pathRewrite: {
         '^/api': '',
