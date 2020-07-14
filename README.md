@@ -1,15 +1,15 @@
-# cra-template-react-typescript
+# cra-template-react-ts
 
-To use this template, add `--template react-typescript` when creating a new app.
+To use this template, add `--template react-ts` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template react-typescript
+npx create-react-app my-app --template react-ts
 
 # or
 
-yarn create react-app my-app --template react-typescript
+yarn create react-app my-app --template react-ts
 ```
 
 For more information, please refer to:
